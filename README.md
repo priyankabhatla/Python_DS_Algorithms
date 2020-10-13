@@ -1,4 +1,4 @@
-# Python_DS_Algorithms
+# Data structures and algorithms
 
 The following will be covered in this repository:
 
